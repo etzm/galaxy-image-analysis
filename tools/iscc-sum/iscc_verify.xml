@@ -93,7 +93,7 @@ The tool will exit with code 0 if verification succeeds, or code 1 if it fails.
 
 **More Information**
 
-For more details about ISCC, visit: https://iscc.codes/
+For more details about ISCC, visit: https://iscc.codes/ and https://sum.iscc.codes/
     ]]></help>
     <expand macro="citations" />
 </tool>
